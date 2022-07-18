@@ -60,10 +60,10 @@ const path = require('path')
             name: 'email',
         },
     ]).then((ans) =>{
-        console.log('File "README.md" created!')
+        console.log('File "newREADME.md" created!')
         const markdown = generateMarkdown(ans);
     //generate readme file based on responses 
-    fs.writeFile('README.md', markdown, (err) => {
+    fs.writeFile('newREADME.md', markdown, (err) => {
         if(err){
             throw err;
         };
