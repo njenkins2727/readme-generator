@@ -21,8 +21,7 @@ This README.md generator was made to shorten the time we spend on our README fil
 - Type 'node index.js' and answer the questions that come up in your terminal.
 - Click on newREADME.md.
 
-https://user-images.githubusercontent.com/104052178/179469997-e182f65c-be77-4d11-80e1-20a840d5cf43.mp4
-
+https://user-images.githubusercontent.com/104052178/179474004-0e6e2ad3-5ba7-4e74-995b-ece78c7ac2f9.mp4
 
 ## Contributing
 Sam ngu (lecturer), Juan Delgado (tutor).
